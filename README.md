@@ -1,2 +1,2 @@
-# proyek-1
+# kumpulan file pertamuan programming
 assalamualaikum smoga waras
